@@ -1,0 +1,98 @@
+--- Product: Cloud Storage ---
+
+Overview:
+Our cloud storage solution provides secure, reliable, and scalable storage for all your business needs. Access your files anywhere, anytime, from any device.
+
+Storage Plans:
+
+Free Plan:
+- 5 GB storage space
+- Basic file sharing
+- 2-factor authentication
+- Standard support
+
+Professional Plan ($9.99/month):
+- 100 GB storage space
+- Advanced sharing controls
+- Version history (30 days)
+- Priority support
+- Team collaboration tools
+- Advanced encryption
+
+Business Plan ($24.99/month):
+- 1 TB storage space
+- Unlimited file sharing
+- Version history (1 year)
+- Admin controls
+- SSO integration
+- Advanced security features
+- 24/7 premium support
+
+Enterprise Plan (Custom pricing):
+- Unlimited storage
+- Advanced admin controls
+- Custom data retention policies
+- Dedicated account manager
+- SLA guarantees
+- Advanced compliance features
+- Custom integrations
+
+Features:
+
+File Synchronization:
+- Automatic sync across all devices
+- Selective sync for large libraries
+- Real-time collaboration
+- Offline access to important files
+
+Security:
+- AES 256-bit encryption at rest
+- TLS 1.3 encryption in transit
+- Zero-knowledge encryption option
+- Regular security audits
+- Compliance: GDPR, HIPAA, SOC 2
+
+Collaboration:
+- Real-time document editing
+- Comments and annotations
+- File request links
+- Password-protected shares
+- Expiring share links
+- Team folders
+
+Version Control:
+- Automatic version history
+- Restore previous versions
+- Compare version changes
+- Permanent deletion protection
+
+Mobile Apps:
+Available for:
+- iOS (iPhone, iPad)
+- Android
+- Windows Phone
+- Auto-upload photos and videos
+- Mobile file editing
+
+Desktop Apps:
+Available for:
+- Windows 10/11
+- macOS 10.14+
+- Linux (Ubuntu, Fedora)
+- Smart sync technology
+- LAN sync for faster transfers
+
+Integration:
+Works with:
+- Microsoft Office
+- Google Workspace
+- Slack
+- Zoom
+- Salesforce
+- 1000+ apps via API
+
+Limits:
+- Maximum file size: 50 GB (Free), 100 GB (Paid)
+- File sharing: Unlimited
+- API rate limit: 1000 requests/hour
+- Bandwidth: Fair use policy applies

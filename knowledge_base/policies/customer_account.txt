@@ -1,0 +1,67 @@
+--- Policy: Customer Account Management ---
+
+Account Creation:
+Creating an account is simple and free. You'll need:
+- Valid email address
+- Strong password (minimum 8 characters)
+- Name and company information
+- Verification through email confirmation
+
+Account Security:
+We take security seriously. Your account is protected by:
+- Encrypted password storage (SHA-256)
+- Two-factor authentication (2FA) available
+- Session timeout after 30 minutes of inactivity
+- Login notifications for new devices
+- IP-based suspicious activity detection
+
+Password Management:
+Password requirements:
+- Minimum 8 characters
+- At least one uppercase letter
+- At least one number
+- At least one special character
+
+To reset your password:
+1. Click "Forgot Password" on login page
+2. Enter your email address
+3. Check email for reset link (valid for 1 hour)
+4. Create new password following requirements
+
+Two-Factor Authentication (2FA):
+Enable 2FA for enhanced security:
+1. Go to Account Settings > Security
+2. Click "Enable 2FA"
+3. Scan QR code with authenticator app
+4. Enter verification code
+5. Save backup codes in secure location
+
+Profile Management:
+You can update the following information:
+- Display name and profile picture
+- Email address (requires verification)
+- Phone number
+- Company information
+- Notification preferences
+- Language and timezone settings
+
+Account Deletion:
+To delete your account:
+1. Navigate to Settings > Account
+2. Click "Delete Account"
+3. Confirm deletion via email
+4. All data will be permanently deleted within 30 days
+5. Active subscriptions will be canceled with prorated refunds
+
+Privacy Settings:
+Control your data visibility:
+- Profile visibility (public/private)
+- Activity status
+- Email notifications
+- Marketing communications
+- Data sharing preferences
+
+Account Types:
+- Free: Basic features, limited storage
+- Professional: Advanced features, priority support
+- Enterprise: Custom solutions, dedicated support

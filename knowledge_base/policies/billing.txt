@@ -1,0 +1,45 @@
+--- Policy: Billing and Subscriptions ---
+
+Billing Overview:
+Our billing system operates on a subscription-based model with flexible payment options. All subscriptions are billed monthly or annually based on your chosen plan.
+
+Payment Methods:
+We accept the following payment methods:
+- Credit Cards (Visa, MasterCard, American Express)
+- Debit Cards
+- PayPal
+- Bank Transfer (for enterprise plans)
+
+Billing Cycle:
+- Monthly plans: Billed on the same date each month
+- Annual plans: Billed once per year with a 20% discount
+- Pro-rated charges apply for mid-cycle upgrades
+
+Refund Policy:
+We offer a 30-day money-back guarantee for all new subscriptions. To request a refund:
+1. Contact support within 30 days of initial purchase
+2. Provide your account email and reason for refund
+3. Refunds are processed within 5-7 business days
+
+Subscription Management:
+You can upgrade, downgrade, or cancel your subscription at any time through your account settings.
+- Upgrades take effect immediately
+- Downgrades take effect at the end of the current billing cycle
+- Cancellations can be processed anytime, with access until the end of the paid period
+
+Late Payments:
+If a payment fails:
+- We'll retry the payment 3 times over 10 days
+- Your account will be suspended after failed attempts
+- A $10 late fee may apply
+- Reactivation requires payment of outstanding balance
+
+Enterprise Billing:
+Enterprise customers have custom billing options including:
+- Quarterly or annual invoicing
+- Purchase order processing
+- Net-30 payment terms
+- Dedicated account manager
+
+Tax Information:
+Applicable taxes are calculated based on your billing address. EU customers may be subject to VAT. Tax exemption certificates can be uploaded in account settings.

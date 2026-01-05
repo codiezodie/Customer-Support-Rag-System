@@ -1,0 +1,137 @@
+--- Issue: Server Crashing or Restarting ---
+
+Common Symptoms:
+- Server unexpectedly stops responding
+- Application crashes without warning
+- Automatic restarts occurring
+- Error messages in logs
+- Degraded performance before crash
+
+Immediate Actions:
+1. Check server status dashboard
+2. Review error logs (last 1 hour)
+3. Verify resource utilization (CPU, RAM, Disk)
+4. Check for recent deployments or changes
+5. Verify network connectivity
+
+Troubleshooting Steps:
+
+Step 1: Check System Resources
+Monitor CPU, memory, and disk usage to identify resource exhaustion issues.
+
+Step 2: Review Error Logs
+Examine application and system logs for error patterns and stack traces.
+
+Step 3: Database Connection Issues
+- Verify database is running
+- Check connection pool limits
+- Review slow queries
+- Check for deadlocks
+- Verify database credentials
+
+Step 4: Memory Leaks
+Signs of memory leak:
+- Gradually increasing memory usage
+- Out of memory errors
+- Slowdown over time
+
+Actions:
+- Restart affected services
+- Review application code for memory leaks
+- Implement memory profiling
+- Adjust JVM/runtime memory limits
+
+Step 5: Network Issues
+- Check network connectivity
+- Verify DNS resolution
+- Test external API endpoints
+- Review firewall rules
+- Check SSL certificate validity
+
+Common Root Causes:
+
+1. Resource Exhaustion:
+- High CPU usage from infinite loops
+- Memory leaks in application
+- Disk space full
+- Too many open file descriptors
+
+Solution:
+- Optimize application code
+- Increase system resources
+- Implement proper cleanup
+- Set resource limits
+
+2. Database Issues:
+- Connection pool exhausted
+- Slow queries causing timeouts
+- Database server overloaded
+- Deadlocks
+
+Solution:
+- Optimize queries
+- Increase connection pool size
+- Add database indices
+- Implement caching
+
+3. External Dependencies:
+- Third-party API failures
+- Network timeouts
+- Service degradation
+- Rate limiting
+
+Solution:
+- Implement retry logic
+- Add circuit breakers
+- Use fallback mechanisms
+- Monitor external services
+
+4. Configuration Errors:
+- Incorrect environment variables
+- Missing required settings
+- Invalid configuration values
+- Version mismatches
+
+Solution:
+- Review configuration files
+- Verify environment variables
+- Check compatibility
+- Use configuration management
+
+Prevention Strategies:
+
+1. Monitoring:
+- Set up application performance monitoring (APM)
+- Configure alerts for resource usage
+- Implement health checks
+- Log aggregation and analysis
+
+2. Load Testing:
+- Regular stress testing
+- Identify performance bottlenecks
+- Test failover scenarios
+- Capacity planning
+
+3. Automated Recovery:
+- Implement auto-restart policies
+- Configure health check endpoints
+- Use process managers (PM2, systemd)
+- Set up load balancing
+
+4. Documentation:
+- Maintain runbooks for common issues
+- Document system architecture
+- Keep deployment guides updated
+- Log all configuration changes
+
+Emergency Contacts:
+- DevOps Team: devops@company.com
+- On-Call Engineer: +1-555-0100
+- System Status: status.company.com
+- Support Portal: support.company.com
+
+Service Level Agreements (SLA):
+- Critical: 15-minute response time
+- High: 1-hour response time
+- Medium: 4-hour response time
+- Low: 24-hour response time
