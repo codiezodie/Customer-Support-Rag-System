@@ -2,7 +2,7 @@
 
 A production-ready Retrieval Augmented Generation (RAG) system for intelligent customer support, built with Python, FAISS, and React.
 
-![RAG System Demo](screenshot.png)
+![RAG System Demo](Screenshot.png)
 
 ## ✨ Features
 
@@ -37,8 +37,8 @@ User Query → Embedding Model → FAISS Search → Context Retrieval → Respon
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/customer-support-rag.git
-cd customer-support-rag
+git clone https://github.com/codiezodie/Customer-Support-Rag.git
+cd Customer-Support-Rag
 ```
 
 2. Create virtual environment
