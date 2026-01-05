@@ -25,49 +25,6 @@ User Query → Embedding Model → FAISS Search → Context Retrieval → Respon
 - Frontend: React, HTML5, CSS3
 - ML: all-MiniLM-L6-v2 (384-dimensional embeddings)
 
-## 🚀 Quick Start
-
-### Prerequisites
-
-- Python 3.8+
-- pip
-
-### Installation
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/codiezodie/Customer-Support-Rag.git
-cd Customer-Support-Rag
-```
-
-2. Create virtual environment
-
-```bash
-python -m venv venv
-venv\Scripts\activate  # Windows
-source venv/bin/activate  # Mac/Linux
-```
-
-3. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-4. Run the application
-
-```bash
-python app.py
-```
-
-5. Open the frontend
-
-```bash
-# Open index.html in your browser
-# Or visit: http://localhost:5000
-```
-
 ## 📁 Project Structure
 
 ```
@@ -136,36 +93,12 @@ POST /rebuild-index
 curl -X POST http://localhost:5000/rebuild-index
 ```
 
-## 🚀 Deployment
-
-Deploy to Heroku, AWS, or any platform supporting Python:
-
-```bash
-# Example: Heroku
-heroku create your-rag-app
-git push heroku main
-```
-
-## 🤝 Contributing
-
-Contributions welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-MIT License - feel free to use this project for learning or commercial purposes.
-
 ## 👤 Author
 
-**Your Name**
+**ZAINAB AHMAD**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-
-## 🙏 Acknowledgments
-
-- [Sentence Transformers](https://www.sbert.net/) for embeddings
-- [FAISS](https://github.com/facebookresearch/faiss) for vector search
-- [Flask](https://flask.palletsprojects.com/) for the web framework
+- GitHub: [codiezodie](https://github.com/codiezodie)
+- LinkedIn: [Zainab Ahmad](https://www.linkedin.com/in/zainabahmad14/)
 
 ---
 
